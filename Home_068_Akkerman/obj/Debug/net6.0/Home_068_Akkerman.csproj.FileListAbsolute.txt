@@ -1,0 +1,15 @@
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\bin\Debug\net6.0\Home_068_Akkerman.exe
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\bin\Debug\net6.0\Home_068_Akkerman.deps.json
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\bin\Debug\net6.0\Home_068_Akkerman.runtimeconfig.json
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\bin\Debug\net6.0\Home_068_Akkerman.dll
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\bin\Debug\net6.0\Home_068_Akkerman.pdb
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.csproj.AssemblyReference.cache
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.GeneratedMSBuildEditorConfig.editorconfig
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.AssemblyInfoInputs.cache
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.AssemblyInfo.cs
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.csproj.CoreCompileInputs.cache
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.dll
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\refint\Home_068_Akkerman.dll
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.pdb
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\Home_068_Akkerman.genruntimeconfig.cache
+D:\vashkel\GB\CSh_new_home\Home_068_Akkerman\obj\Debug\net6.0\ref\Home_068_Akkerman.dll
