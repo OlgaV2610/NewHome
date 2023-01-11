@@ -1,0 +1,15 @@
+D:\vashkel\GB\CSh_new_home\bin\Debug\net6.0\CSh_new_home.exe
+D:\vashkel\GB\CSh_new_home\bin\Debug\net6.0\CSh_new_home.deps.json
+D:\vashkel\GB\CSh_new_home\bin\Debug\net6.0\CSh_new_home.runtimeconfig.json
+D:\vashkel\GB\CSh_new_home\bin\Debug\net6.0\CSh_new_home.dll
+D:\vashkel\GB\CSh_new_home\bin\Debug\net6.0\CSh_new_home.pdb
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.csproj.AssemblyReference.cache
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.GeneratedMSBuildEditorConfig.editorconfig
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.AssemblyInfoInputs.cache
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.AssemblyInfo.cs
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.csproj.CoreCompileInputs.cache
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.dll
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\refint\CSh_new_home.dll
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.pdb
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\CSh_new_home.genruntimeconfig.cache
+D:\vashkel\GB\CSh_new_home\obj\Debug\net6.0\ref\CSh_new_home.dll
