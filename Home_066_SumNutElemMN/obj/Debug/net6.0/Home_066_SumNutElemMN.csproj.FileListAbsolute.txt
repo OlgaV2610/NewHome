@@ -1,0 +1,15 @@
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\bin\Debug\net6.0\Home_066_SumNutElemMN.exe
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\bin\Debug\net6.0\Home_066_SumNutElemMN.deps.json
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\bin\Debug\net6.0\Home_066_SumNutElemMN.runtimeconfig.json
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\bin\Debug\net6.0\Home_066_SumNutElemMN.dll
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\bin\Debug\net6.0\Home_066_SumNutElemMN.pdb
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.csproj.AssemblyReference.cache
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.GeneratedMSBuildEditorConfig.editorconfig
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.AssemblyInfoInputs.cache
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.AssemblyInfo.cs
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.csproj.CoreCompileInputs.cache
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.dll
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\refint\Home_066_SumNutElemMN.dll
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.pdb
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\Home_066_SumNutElemMN.genruntimeconfig.cache
+D:\vashkel\GB\CSh_new_home\Home_066_SumNutElemMN\obj\Debug\net6.0\ref\Home_066_SumNutElemMN.dll
